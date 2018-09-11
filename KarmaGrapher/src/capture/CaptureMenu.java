@@ -44,6 +44,7 @@ public class CaptureMenu extends JFrame {
 	public void capture(int c) {
 		
 		dh.buffer("t; Karma; Percentage;\n".getBytes());
+		//Header of csv
 
 		int i = 0;
 		
