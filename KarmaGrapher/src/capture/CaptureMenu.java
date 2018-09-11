@@ -43,7 +43,7 @@ public class CaptureMenu extends JFrame {
 
 	public void capture(int c) {
 		
-		dh.buffer("t; Karma; Percentage;\n").getBytes();
+		dh.buffer("t; Karma; Percentage;\n".getBytes());
 
 		int i = 0;
 		
