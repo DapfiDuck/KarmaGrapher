@@ -1,7 +1,7 @@
 # KarmaGrapher
 
 Gets the Karma and the upvote percentage of a given Reddit posts in a time interval and puts it in a csv file,
-so one can take it to excel and make graphs from it.
+so one can take it to excel and make graphs from it. Why you ask? Just because.
 
 ## Commitment Guidelines
 - Commits should be useful and additive to the project.
